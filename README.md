@@ -8,7 +8,7 @@
 
 - I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [gi](gi)
+- 👨‍💻 All of my projects are available at [https://github.com/ibadabsar](https://github.com/ibadabsar)
 
 - 📫 How to reach me **ibadabsar@gmail.com**
 
